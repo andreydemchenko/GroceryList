@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">GroceryList</string>
+    <string name="enter_name_label">Please enter a name</string>
+    <string name="add_shopping_item">Add a new Shopping Item</string>
+    <string name="name_shopping_item">Name</string>
+    <string name="amount_shopping_item">Amount</string>
+    <string name="add_btn_shopping_item">ADD</string>
+    <string name="cancel_btn_shopping_item">CANCEL</string>
+</resources>

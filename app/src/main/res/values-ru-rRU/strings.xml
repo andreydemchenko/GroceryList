@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_btn_shopping_item">ДОБАВИТЬ</string>
+    <string name="name_shopping_item">Название</string>
+    <string name="amount_shopping_item">Количество</string>
+    <string name="cancel_btn_shopping_item">Отменить</string>
+    <string name="enter_name_label">Пожалуйста введите название</string>
+    <string name="add_shopping_item">Добавить новый элемент</string>
+</resources>
